@@ -1,0 +1,15 @@
+{
+  "name": "ekohl-concat_example",
+  "version": "0.1.0",
+  "author": "ekohl",
+  "summary": "An example with puppetlabs-concat",
+  "license": "Apache-2.0",
+  "source": "https://github.com/ekohl/ekohl-concat_example",
+  "project_page": "https://github.com/ekohl/ekohl-concat_example",
+  "issues_url": "https://github.com/ekohl/ekohl-concat_example/issues",
+  "dependencies": [
+    {"name":"puppetlabs-concat","version_requirement":">= 1.0.0 < 5.0.0"}
+  ],
+  "data_provider": null
+}
+
